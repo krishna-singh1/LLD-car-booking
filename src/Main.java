@@ -1,4 +1,3 @@
-import javafx.scene.transform.Scale;
 import model.Cab;
 import model.Location;
 import model.Rider;
@@ -9,7 +8,6 @@ import strategies.DefaultPriceStrategies;
 import strategies.PriceStrategies;
 
 import java.util.List;
-import java.util.Scanner;
 
 public class Main {
 
